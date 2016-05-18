@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE projects SYSTEM "D:\Different\Development\RealLabs\programming_engineering_lab_2\projects.dtd">
+
+<projects>
+
+<project dept="ИТ" title="Информационная система управления персоналом"
+  group="ИТ-31" tutorname="Олег Евдошенко" tutormail="olevdoshenko@asu.edu.ru">
+Разработка информационной систем для управления персоналом организации
+ </project>
+
+<project dept="ИТ" title="Информационная система Деканат"
+  group="ИТ-41" tutorname="Оксана Щербинина" tutormail="okscherbinina@asu.edu.ru">
+Разработка информационной системы учета контингента студентов
+</project>
+
+
+<project dept="ИБ" title="Защита ПДн в Ростелеком"
+  group="ЗИ-31" tutorname="Владимир Лим" tutormail="lim@asu.edu.ru">
+Организация защиты персональных данных в ПАО Ростелеком
+</project>
+
+
+<project dept="ПМИ" title="Моделирование перколяции"
+  group="ПМ-41" tutorname="Юрий Тарасевич" tutormail="yutarasevich@asu.edu.ru">
+Проект по расчету и моделированию перколяции жидкостей в поверхностных слоях
+</project>
+
+<project dept="ПМИ" title="Высокопроизводительные вычисления"
+  group="GV-41" tutorname="Иван Городеев" tutormail="ivgordeev@asu.edu.ru">
+Проект по использованию суперкомпьютерных вычислений на основе GPU
+</project>
+
+
+<project dept="МА" 
+  title="Решение систем уравнений"
+  group="МА-31" tutorname="Денис Шацков" tutormail="deshatskov@asu.edu.ru">
+Демонстрация решения систем дифференциальных уравнений
+</project>
+
+</projects>

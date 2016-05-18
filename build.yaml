@@ -1,0 +1,35 @@
+!asu.configreader.domain.BuildConfig
+project:
+ description: "\n        simple example build file\n    "
+ properties: 
+  - 
+   !asu.configreader.domain.Property
+   name: src
+   location: src
+  - 
+   !asu.configreader.domain.Property
+   name: build
+   location: build
+  - 
+   !asu.configreader.domain.Property
+   name: dist
+   location: dist
+ 
+ targets: 
+  - 
+   !asu.configreader.domain.Target
+   name: init
+  - 
+   !asu.configreader.domain.Target
+   name: compile
+   description: "compile the source "
+  - 
+   !asu.configreader.domain.Target
+   name: dist
+   description: "generate the distribution"
+  - 
+   !asu.configreader.domain.Target
+   name: clean
+   description: "clean up"
+ name: MyProject
+ basedir: "."

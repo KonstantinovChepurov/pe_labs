@@ -1,0 +1,3 @@
+DocReader - является директором
+NodeConverter - AbstractBuilder
+ProjectConverter - ConcreteBuilder

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/build.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects.dtd" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/builder/DOMNodes.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/builder/DocReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/builder/NodeConverter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/builder/ParseTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/builder/Project.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/builder/ProjectConverter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/builder/projects.dtd" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/cars/SalableCarAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/configreader/ConfigurationReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/configreader/domain/BuildConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/configreader/domain/ConfigRealization.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/configreader/domain/ConfigSpecifiedAbstraction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/configreader/domain/Project.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/configreader/domain/Property.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/configreader/domain/Target.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/configreader/xml/XMLBuildConfigurationReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/configreader/yaml/YamlBuildConfigurationReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/state/Explanation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/state/HasCoinState.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/state/NoCoinState.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/state/SoldOutState.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/state/SoldState.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/state/State.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/state/VendingMachine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/asu/state/VendingMachineTestDrive.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/projects.dtd" charset="UTF-8" />
+  </component>
+</project>
